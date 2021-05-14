@@ -1,0 +1,6 @@
+id=app-data-file-exec
+name=app-data-file-exec
+version=0.1.0
+versionCode=1
+author=galeksandrp
+description=Allow execution of binaries in apps data folder
